@@ -42,7 +42,7 @@ export default function Product(props) {
                 'fa fa-star-o'}
                 ></i>  </span>
                 <span>
-                    {numReviews+'reviews'}
+                    {numReviews+' reviews'}
                 </span>
         </div>
     )
